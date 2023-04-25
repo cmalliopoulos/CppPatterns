@@ -9,6 +9,8 @@ using namespace std;
 typedef vector<double> dvec;
 
 
+
+
 // Vectors of T supporting fusion of operations and ufuncs
 template<typename T> class Base {
 public:
